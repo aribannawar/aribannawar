@@ -75,15 +75,11 @@ I regularly explore new technologies, security concepts, vulnerabilities, attack
   </a>
 </p>
 
-### 🛡️ NetPulse
+### 🤖 Hunting-Webserver
 
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
-
-
-
-![DFIR](https://img.shields.io/badge/DFIR-Tool-blue?style=flat-square)
 
 
 
@@ -92,9 +88,17 @@ I regularly explore new technologies, security concepts, vulnerabilities, attack
 ---
 
 ### 🌐 CyberVision
+![CyberVision](https://img.shields.io/badge/CyberVision-Security%20Framework-blue?style=for-the-badge&logo=shieldsdotio&logoColor=white)
 
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+
+
+![Offensive](https://img.shields.io/badge/☠️_Offensive-blue?style=flat-square)
+
+
+
+
+![Defensive](https://img.shields.io/badge/🛡️_Defensive-blue?style=flat-square)
 
 
 
@@ -104,3 +108,8 @@ I regularly explore new technologies, security concepts, vulnerabilities, attack
 
 
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=aribannawar&repo=CyberVision&theme=tokyonight&hide_border=true" />
+
+---
+
+### 💗 Love-project 
+![Love Project](https://img.shields.io/badge/💌_Love--Project-Personal%20Web%20App-ff69b4?style=for-the-badge)
