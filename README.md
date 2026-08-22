@@ -51,27 +51,18 @@ I regularly explore new technologies, security concepts, vulnerabilities, attack
 <br>
 <br>
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aribannawar&show_icons=true&theme=tokyonight&hide_border=true" width="48%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aribannawar&layout=compact&theme=tokyonight&hide_border=true" width="48%">
-</p>
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=aribannawar&theme=tokyonight&hide_border=true" width="70%">
+  <img src="https://streak-stats.demolab.com?user=aribannawar&theme=tokyonight&hide_border=true" width="100%" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=aribannawar&theme=tokyonight&no-frame=true&row=1&column=6">
-</p>
 
 # ![Featurd Projects](https://readme-typing-svg.demolab.com?font=Space+Grotesk&size=32&pause=1000&color=1F51FF&center=true&width=400&lines=Featurd+Projects)
 <p align="center">
   <a href="https://github.com/aribannawar/-NetPulse-Network-Log-Anomaly-Analyzer.gjt">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=aribannawar&repo=-NetPulse-Network-Log-Anomaly-Analyzer&theme=tokyonight&hide_border=true">
   </a>
   <a href="https://github.com/aribannawar/CyberVision.git">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=aribannawar&repo=CyberVision&theme=tokyonight&hide_border=true">
   </a>
 </p>
 
