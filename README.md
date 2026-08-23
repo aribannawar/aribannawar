@@ -74,7 +74,7 @@ I regularly explore new technologies, security concepts, vulnerabilities, attack
 
 
 
-![Network Bot](https://img.shields.io/badge/Traffic_Engine-Active-00ffcc?style=for-the-badge&logo=wireshark&logoColor=000000)
+![Network Bot](https://img.shields.io/badge/Traffic_Bots-Active-00ffcc?style=for-the-badge&logo=<src="https://www.cloudflare.com/img/learning/ddos/what-is-a-ddos-botnet/ddos-botnet-star-network-topology.png">&logoColor=000000)
 
 ***[Hunting-Webserver](https://github.com/aribannawar/Hunting-webserver.git) is a simple Python based DDoS project uses active working independent traffic requests real workers that send requests to a target Web 🌐.***
 
